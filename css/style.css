@@ -1,4 +1,34 @@
+/* * */
+body{
+margin:0;
+text-align: center;
+font-family: 'Shippori Mincho B1', serif;
+}
+h1{
+  font-size: 5.625em;
+  margin: 50px auto 0 auto;
+  font-family: 'Marck Script', cursive;
 
+
+}
+h2{
+font-size: 2.5rem;
+font-weight: normal;
+font-family: 'Oxygen', sans-serif;
+
+}
+h3{
+
+}
+hr{
+
+}
+p {
+
+}
+a{
+
+}
 
 
 .top-container{
@@ -10,8 +40,21 @@
   right: 280px;
   top: 40px;
 }
+.middle-container{
+
+}
+.profile{
+
+}
+.body-ptag{
+
+}
 .bottom-cloud {
   position: absolute;
   left: 200px;
   bottom: 300px;
+}
+#asablue{
+height: 300px;
+width: 300px;
 }
