@@ -1,6 +1,6 @@
 /* * */
 body {
-
+  font-size: 21px;
   margin: 0;
   text-align: center;
   font-family: 'Shippori Mincho B1', serif;
@@ -48,9 +48,11 @@ a {
 }
 
 .middle-container {
+
   margin: 100px 0;
 }
 .bottom-container{
+  background-color: #3F8EFC;
   padding: 50px 0 20px;
 }
 
@@ -104,6 +106,28 @@ a {
 .contact-ptag{
   width: 40%;
   margin: 40px auto 60px;
+}
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #BA274A;
+  font-family: 'Oxygen', sans-serif;
+  color: #ffff;
+  font-size: 22px;
+  background: #3F8EFC;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #AFD0FE;
+  text-decoration: none;
+}
+.icon{
+  font-size: 50px;
+  text-align: center;
+  padding: 15px;
 }
 
 #asablue {
